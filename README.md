@@ -52,20 +52,23 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 ## 📊 Dashboard Pages
 
 ### 1️⃣ Operations Overview 
-- Real-time overview of airline operations
+Real-time overview of airline operations
 
 ![Overview Page](Overview.png)
 
 ### 2️⃣ Flight Management
 Monitor and manage all flight operations
+
 ![Flight Page](Flights.png)
 
 ### 3️⃣ Route Insights
 Identify high-traffic and high-demand routes
+
 ![Routes Page](Routes.png)
 
 ### 4️⃣ Analytics & Reports
 Trend insights and operational drivers
+
 ![Analytics Page](Analytics.png)
 
 ### 5️⃣ Passenger Management
