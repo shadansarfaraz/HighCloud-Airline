@@ -45,7 +45,7 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 ---
 
 ## Live Dashboard
-- ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
+- 🔗 ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
 
 ---
 
@@ -105,15 +105,15 @@ This project was built as part of my **Data Analytics Internship**, where I perf
 - Final analysis & reporting delivered in Power BI  
 - ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
 
-This demonstrates the **same project executed across four tools**, showing versatility and tool proficiency.
-
 ---
 
 ## 👤 Author
 **Shadan Tech**   
 _Data Analyst_
-🔗 [LinkedIn Profile](http://www.linkedin.com/in/shadantech)  
+🔗 [LinkedIn Profile](http://www.linkedin.com/in/shadantech)
+
 🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/shadan.sarfaraz/vizzes)
+
 🔗 [Newsletter](https://shadantech.substack.com/)
 
 ---
