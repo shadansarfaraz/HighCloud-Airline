@@ -1,8 +1,8 @@
 # ✈️ HighCloud Airline
 
 ## 📌 Project Overview
-This project analyzes airline passenger trends using a dataset of **110,852 rows**, covering seasonality, route performance, airport traffic, and operational efficiency.  
-The final output includes a **multi-page Power BI dashboard** with advanced navigation, drill-through, and DAX-driven insights.
+This project analyzes airline passenger trends using a dataset of **110,852 rows**, uncovering seasonality, route performance, airport traffic, and operational efficiency.  
+The final output includes a **multi-page Power BI dashboard** with advanced navigation, drill-through, and DAX-driven insights, designed to support data-driven decision-making.
 
 ---
 
@@ -19,13 +19,12 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 - Airport-level insights  
 
 ### **A — Action**
-- Cleaned and transformed data using **Power Query** (handled missing values, standardized dates, removed duplicates).  
-- Built a structured **data model** and created DAX measures (Passenger Trends, Route Contribution %, Load Factor %, YoY/QoQ metrics).  
-- Designed a professional **multi-page dashboard** with:
-  - Advanced navigation buttons  
-  - Slicers & drill-through  
-  - Custom visuals  
-- Focused visuals on seasonality, route contribution, and operational efficiency.
+- Data Cleaning & Transformation: Handled missing values, standardized dates, removed duplicates in Power Query.
+- Data Modeling & DAX: Created measures for passenger trends, route contribution %, load factor %, and YoY/QoQ analysis.
+- Dashboard Design: Built a multi-page, interactive dashboard with:
+  - Advanced navigation buttons
+  - Slicers & drill-through
+  - Custom visuals focused on seasonality, route contribution, and efficiency
 
 ### **R — Result**
 - Identified **peak passenger months: July & December**.  
@@ -35,12 +34,20 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 
 ---
 
+## 🔑 Key Insights
+- Passenger demand peaks in July & December
+- Top routes drive 60%+ of traffic, useful for capacity planning
+- Operational efficiency improves with higher load factor
+- Weekend flights have higher load factor, guiding scheduling
+
+---
+
 ## 📊 Tools & Technologies
-- **Power BI**
-- Power Query  
-- DAX  
-- Data Modeling  
-- Data Visualization  
+- Power BI (Final dashboard)
+- Power Query & DAX
+- Excel (Pivot Tables, Slicers, Charts)
+- SQL (Data extraction, joins, aggregations)
+- Tableau (Navigation-style dashboards, KPI cards, LOD expressions) 
 
 ---
 
@@ -82,28 +89,12 @@ Passenger behavior, growth, and distribution
 
 This project was built as part of my **Data Analytics Internship**, where I performed end-to-end analysis using multiple tools:
 
-### ✅ Excel  
-- Cleaned, transformed, and analyzed raw flight data  
-- Built an **interactive Excel dashboard** for operational KPIs  
-- Used Pivot Tables, Power Query, Slicers, Charts  
-- ([Live Dashboard](https://github.com/shadantech/Airlines_Excel_Dashboard))
-
-
-### ✅ SQL  
-- Designed SQL scripts for data extraction & preparation  
-- Performed joins, aggregations, and route performance queries  
-- Generated datasets for visualization
-
-### ✅ Tableau  
-- Developed a **navigation-style Tableau dashboard**  
-- Created KPI cards, maps, and trend analysis  
-- Used Parameters & LOD expressions for deeper insights  
-
-### ✅ Power BI (Final & Most Advanced Version)  
-- Complete, professionally designed multi-page dashboard  
-- Dynamic KPIs, advanced navigation, DAX measures  
-- Final analysis & reporting delivered in Power BI  
-- ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
+| Tool         | Role                                                                                                                                                                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Excel**    | Cleaned & analyzed raw flight data, built interactive dashboards ([GitHub](https://github.com/shadantech/Airlines_Excel_Dashboard))                                                                                  |
+| **SQL**      | Data extraction & preparation, route performance queries                                                                                                                                                             |
+| **Tableau**  | Navigation-style dashboards, KPIs, trend & map analysis                                                                                                                                                              |
+| **Power BI** | Advanced multi-page dashboard, dynamic KPIs, drill-through, DAX measures ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi)) |
 
 ---
 
