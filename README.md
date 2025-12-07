@@ -51,39 +51,20 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 
 ## 📊 Dashboard Pages
 
-### 1️⃣ Operations Overview
-- Total Flights, Passengers, Revenue, On-Time Rate  
-- Passengers trend over time  
-- Flights by carrier group  
-- Passenger distribution by region  
-- ![Overview Page](Overview.png)
+### 1️⃣ Operations Overview 
+![Overview Page](Overview.png)
 
 ### 2️⃣ Flight Management
-- Scheduled vs Performed flights  
-- Missed & Extra flights  
-- Origin–Destination matrix  
-- Carrier-level operational performance  
-- ![Flight Page](Flights.png)
+ ![Flight Page](Flights.png)
 
 ### 3️⃣ Route Insights
-- Top 10 routes by passenger traffic  
-- Routes by distance group  
-- Map visualization by carrier groups  
-- Route type distribution  
-- ![Routes Page](Routes.png)
+![Routes Page](Routes.png)
 
 ### 4️⃣ Analytics & Reports
-- Yearly & monthly trend analysis  
-- Decomposition tree for KPI drivers  
-- Distance vs Air Time scatter analysis
-- ![Analytics Page](Analytics.png)
+![Analytics Page](Analytics.png)
 
 ### 5️⃣ Passenger Management
-- Passenger growth by quarter  
-- Top 5 routes (passenger volume)  
-- Airport-wise passenger distribution (treemap)  
-- Waterfall: Passenger change over months/years  
-- ![Passenger Page](Passengers.png)
+![Passenger Page](Passengers.png)
 
 ---
 
@@ -112,6 +93,7 @@ This project was built as part of my **Data Analytics Internship**, where I perf
 - Complete, professionally designed multi-page dashboard  
 - Dynamic KPIs, advanced navigation, DAX measures  
 - Final analysis & reporting delivered in Power BI  
+- ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
 
 This demonstrates the **same project executed across four tools**, showing versatility and tool proficiency.
 
