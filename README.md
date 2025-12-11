@@ -1,7 +1,8 @@
 # ✈️ HighCloud Airlines
+Advanced Multi-Page Power BI Project | Operations • Flights • Routes • Analytics • Passengers
 
 ## 📌 Overview
-This project analyzes airline passenger trends using a dataset of **110,852 rows**, uncovering seasonality, route performance, airport traffic, and operational efficiency.  
+An end-to-end Airline Analytics dashboard using a dataset of **110,852 rows**, uncovering operational efficiency, passenger trends, route performance, and flight management.
 The final output includes a **multi-page Power BI dashboard** with advanced navigation, drill-through, and DAX-driven insights, designed to support data-driven decision-making.
 
 ---
@@ -9,35 +10,50 @@ The final output includes a **multi-page Power BI dashboard** with advanced navi
 ## ⭐ STAR Method Breakdown
 
 ### **S — Situation**
-The raw airline dataset had scattered information on passenger volumes, routes, operational metrics, and seasonal patterns. Leadership needed a clear, interactive analytical view to improve decision-making.
+Airline operations teams needed a centralized analytical solution to monitor daily operations, flight performance, route efficiency, and passenger trends. The raw dataset included flights, carriers, airports, distance groups, load factors, and more.
 
 ### **T — Task**
-To clean, model, and analyze the dataset, and build a Power BI dashboard that reveals:
-- Seasonal trends  
-- High-performing routes  
-- Load factor efficiency  
-- Airport-level insights  
+Design an advanced multi-page Power BI dashboard that provides:
+- Real-time operational insights
+- Route-level intelligence
+- Passenger analytics
+- Trend analysis
+- Drill-through and interactive visuals
+- Executive-ready KPIs
 
 ### **A — Action**
-- Data Cleaning & Transformation: Handled missing values, standardized dates, removed duplicates in Power Query.
-- Data Modeling & DAX: Created measures for passenger trends, route contribution %, load factor %, and YoY/QoQ analysis.
-- Dashboard Design: Built a multi-page, interactive dashboard with:
-  - Advanced navigation buttons
-  - Slicers & drill-through
-  - Custom visuals focused on seasonality, route contribution, and efficiency
+- Cleaned & transformed 110k rows using Power Query
+- Built 5 dashboards: Operations, Flight Management, Routes, Analytics, Passengers
+- Developed advanced DAX measures (On-Time Rate, Load Factor, Route KPIs, Passenger Growth)
+- Designed unique visual elements: Ribbon Charts, Waterfall, Decomposition Tree, Maps, Treemaps
+- Implemented left navigation pane with branding + page consistency
+- Applied conditional formatting, slicers, drill-through filters, and dynamic KPIs
+
+
 
 ### **R — Result**
-- Identified **peak passenger months: July & December**.  
-- Revealed that **top 20% routes contribute 61%+ of total volume**, supporting capacity planning.  
-- Discovered **higher weekend load factor**, useful for scheduling optimization.  
-- Delivered a dashboard that improved clarity, speed of analysis, and data-driven decision-making.
+- Identified highest passenger route: ATL–LGA with 601K passengers
+- Highlighted the highest missed flights: National Carriers (4,018)
+- Showed Domestic flights dominance (86.21%)
+- Determined the peak year: 2011, and highest quarterly growth: 0.61M in Q2
+Delivered a decision-ready analytics system that improved visibility, highlighted operational inefficiencies, and supported strategic route planning.
+
+---
+
+## 🔑 Key Insights
+- Top 10 high-traffic routes
+- Domestic vs International split
+- Route performance by distance group
+- On-time performance trends
+- Passenger growth by month and quarter
+- Carrier vs Aircraft efficiency
 
 ---
 
 ## 📊 Dashboard Pages
 
 ### 1️⃣ Operations Overview 
-Real-time overview of airline operations
+- Real-time overview of airline operations
 
 ![Overview Page](Overview.png)
 
@@ -67,12 +83,12 @@ Passenger behavior, growth, and distribution
 ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
 
 ---
-
-## 🔑 Key Insights
-- Passenger demand peaks in July & December
-- Top routes drive 60%+ of traffic, useful for capacity planning
-- Operational efficiency improves with higher load factor
-- Weekend flights have higher load factor, guiding scheduling
+## 🎯 Use Cases
+- Airline Operations Monitoring
+- Route Optimization
+- Passenger Demand Forecasting
+- Carrier Performance Evaluation
+- Executive Decision Reporting
 
 ---
 
