@@ -2,42 +2,52 @@
 Advanced Multi-Page Power BI Project | Operations • Flights • Routes • Analytics • Passengers
 
 ## 📌 Overview
-An end-to-end Airline Analytics dashboard using a dataset of **110,852 rows**, uncovering operational efficiency, passenger trends, route performance, and flight management.
-The final output includes a **multi-page Power BI dashboard** with advanced navigation, drill-through, and DAX-driven insights, designed to support data-driven decision-making.
+An end-to-end airline operations and decision analytics solution built on **110,852 flight and passenger records**.
+The project delivers a **multi-page Power BI dashboard** designed to support operational monitoring, trend analysis, and data-driven decision-making, forming a strong analytical foundation for predictive and AI-driven initiatives in airline management.
+
+---
+
+## 🎯 Business Objective
+- Airline operations teams required a centralized analytical system to:
+- Monitor daily flight operations
+- Analyze route and passenger performance
+- Identify operational inefficiencies
+- Enable analytics-driven planning and optimization
 
 ---
 
 ## ⭐ STAR Method Breakdown
 
 ### **S — Situation**
-Airline operations teams needed a centralized analytical solution to monitor daily operations, flight performance, route efficiency, and passenger trends. The raw dataset included flights, carriers, airports, distance groups, load factors, and more.
+The airline faced challenges in understanding operational efficiency across flights, routes, carriers, and passengers due to large, fragmented datasets.
 
 ### **T — Task**
-Design an advanced multi-page Power BI dashboard that provides:
-- Real-time operational insights
-- Route-level intelligence
-- Passenger analytics
-- Trend analysis
-- Drill-through and interactive visuals
-- Executive-ready KPIs
+Design an executive-ready, multi-page analytics solution that provides:
+- Operational KPIs and trend analysis
+- Route and carrier performance insights
+- Passenger demand analysis
+- Drill-through, interactive visuals, and navigation
+- Insights usable for **forecasting and optimization decisions**
 
 ### **A — Action**
-- Cleaned & transformed 110k rows using Power Query
-- Built 5 dashboards: Operations, Flight Management, Routes, Analytics, Passengers
-- Developed advanced DAX measures (On-Time Rate, Load Factor, Route KPIs, Passenger Growth)
-- Designed unique visual elements: Ribbon Charts, Waterfall, Decomposition Tree, Maps, Treemaps
-- Implemented left navigation pane with branding + page consistency
-- Applied conditional formatting, slicers, drill-through filters, and dynamic KPIs
-
-
+- Cleaned & transformed **110k+ rows using Power Query**
+- Built **5 analytical dashboards**: Operations, Flight Management, Routes, Analytics, Passengers
+- Created advanced **DAX measures**:
+  - Load Factor
+  - On-Time Performance
+  - Passenger Growth
+  - Route-level KPIs
+- Applied **statistical trend analysis** to identify seasonal and quarterly patterns
+- Designed advanced visuals: Ribbon Charts, Waterfall, Decomposition Tree, Maps, Treemaps
+- Implemented drill-through filters, slicers, conditional formatting, and dynamic KPIs
+- Ensured **data consistency and validation** across tools
 
 ### **R — Result**
-- Identified highest passenger route: ATL–LGA with 601K passengers
-- Highlighted the highest missed flights: National Carriers (4,018)
-- Showed Domestic flights dominance (86.21%)
-- Determined the peak year: 2011, and highest quarterly growth: 0.61M in Q2
-Delivered a decision-ready analytics system that improved visibility, highlighted operational inefficiencies, and supported strategic route planning.
-
+- Identified **ATL–LGA** as the highest passenger route (601K passengers)
+- Highlighted **National Carriers** as having the highest missed flights (4,018)
+- Showed **Domestic flight dominance (86.21%)**
+- Determined **2011 as the peak year** and **Q2 as the highest growth quarter (0.61M passengers)**
+- Delivered a decision-ready analytics platform improving visibility and supporting strategic route and capacity planning
 ---
 
 ## 🔑 Key Insights
@@ -46,7 +56,7 @@ Delivered a decision-ready analytics system that improved visibility, highlighte
 - Route performance by distance group
 - On-time performance trends
 - Passenger growth by month and quarter
-- Carrier vs Aircraft efficiency
+- Carrier and Aircraft efficiency
 
 ---
 
