@@ -102,16 +102,21 @@ Passenger behavior, growth, and distribution
 
 ---
 
-🤖 Analytics → AI Readiness
-
+## 🤖 Analytics → AI Readiness
+While this project focuses on **analytics and decision intelligence**, the outputs directly support:
+- **Passenger demand forecasting**
+- **Route profitability prediction**
+- **Anomaly detection in flight delays**
+- **Optimization models for capacity planning**
+These analytics layers serve as **foundational inputs for predictive and AI models** in real-world airline environments.
 
 ---
 
 ## 📊 Tools & Technologies
 - Power BI (Final dashboard)
 - Power Query & DAX
-- Excel (Pivot Tables, Slicers, Charts)
 - SQL (Data extraction, joins, aggregations)
+- Excel (Pivot Tables, Slicers, Charts)
 - Tableau (Navigation-style dashboards, KPI cards, LOD expressions) 
 
 ---
@@ -126,6 +131,10 @@ This project was built as part of my **Data Analytics Internship**, where I perf
 | **SQL**      | Data extraction & preparation, route performance queries                                                                                                                                                             |
 | **Tableau**  | Navigation-style dashboards, KPIs, trend & map analysis                                                                                                                                                              |
 | **Power BI** | Advanced multi-page dashboard, dynamic KPIs, drill-through, DAX measures ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi)) |
+
+---
+## 🧩 Project Context
+This project was completed as part of my Data Analytics Internship, involving end-to-end analysis across multiple tools to deliver business-ready insights in a consulting-style environment.
 
 ---
 
