@@ -108,6 +108,7 @@ While this project focuses on **analytics and decision intelligence**, the outpu
 - **Route profitability prediction**
 - **Anomaly detection in flight delays**
 - **Optimization models for capacity planning**
+
 These analytics layers serve as **foundational inputs for predictive and AI models** in real-world airline environments.
 
 ---
