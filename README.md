@@ -56,7 +56,7 @@ Design an executive-ready, multi-page analytics solution that provides:
 - Route performance by distance group
 - On-time performance trends
 - Passenger growth by month and quarter
-- Carrier and Aircraft efficiency
+- Carrier and Aircraft efficiency analysis
 
 ---
 
@@ -93,12 +93,17 @@ Passenger behavior, growth, and distribution
 ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
 
 ---
-## 🎯 Use Cases
+## 💼 Business Use Cases
 - Airline Operations Monitoring
-- Route Optimization
-- Passenger Demand Forecasting
+- Route Optimization Support
+- Passenger Demand Analysis
 - Carrier Performance Evaluation
 - Executive Decision Reporting
+
+---
+
+🤖 Analytics → AI Readiness
+
 
 ---
 
