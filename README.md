@@ -48,6 +48,7 @@ Design an executive-ready, multi-page analytics solution that provides:
 - Showed **Domestic flight dominance (86.21%)**
 - Determined **2011 as the peak year** and **Q2 as the highest growth quarter (0.61M passengers)**
 - Delivered a decision-ready analytics platform improving visibility and supporting strategic route and capacity planning
+
 ---
 
 ## 🔑 Key Insights
@@ -93,6 +94,7 @@ Passenger behavior, growth, and distribution
 ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
 
 ---
+
 ## 💼 Business Use Cases
 - Airline Operations Monitoring
 - Route Optimization Support
@@ -134,6 +136,7 @@ This project was built as part of my **Data Analytics Internship**, where I perf
 | **Power BI** | Advanced multi-page dashboard, dynamic KPIs, drill-through, DAX measures ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi)) |
 
 ---
+
 ## 🧩 Project Context
 This project was completed as part of my Data Analytics Internship, involving end-to-end analysis across multiple tools to deliver business-ready insights in a consulting-style environment.
 
