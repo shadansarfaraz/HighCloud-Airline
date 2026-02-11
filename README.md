@@ -143,7 +143,7 @@ This project was completed as part of my Data Analytics Internship, involving en
 ---
 
 ## 👤 Author
-**Shadan Tech**   
+**Shadan**   
 _Data Analyst_
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shadansarfaraz1)  
